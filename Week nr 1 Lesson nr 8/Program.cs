@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            string imię = "Elen";
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Cześć Świecie C#");
             Console.WriteLine("Nazywam się Elen");
